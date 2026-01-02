@@ -14,9 +14,9 @@ A lightweight Bash script to monitor Linux system resources including CPU, Memor
 
 📋 Sample Output
 
-==========================================
+# ==========================================
       SYSTEM PERFORMANCE REPORT           
-==========================================
+# ==========================================
 CPU Load:       12.5%
 Memory:         Used: 1420MB / Total: 7950MB (17.86%)
 Disk:           Used: 45G / Total: 220G (21%)
